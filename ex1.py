@@ -1,5 +1,3 @@
-#let's try
-#les's try2
 #print "Hello World"
 print "Hello Again"
 print "I like typing this."
